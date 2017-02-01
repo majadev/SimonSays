@@ -11,4 +11,6 @@ yellowButton = 7;
 greenButton = 8;
 blueButton = 9;
 
+I will attach a picture of how to wire it all soon.
+
 At the moment you can see the highscore and your current score in the console. If you want to you can connect it to a display instead. Code for that will come later.
